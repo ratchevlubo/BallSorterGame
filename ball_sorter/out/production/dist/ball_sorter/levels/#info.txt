@@ -1,0 +1,23 @@
+cups
+balls
+cccccccc
+cccccccc
+cccccccc
+cccccccc
+\      /
+  cups
+
+colors c
+0 - empty
+a - red
+b - green
+c - blue
+d - gray
+e - brown
+f - pink
+g - purple
+h - orange
+i - yellow
+j - lblue
+k - lgreen
+l - ygreen

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ball_sorter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ball_sorter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
